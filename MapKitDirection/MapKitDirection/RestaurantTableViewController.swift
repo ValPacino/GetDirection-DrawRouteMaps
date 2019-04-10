@@ -31,7 +31,7 @@ class RestaurantTableViewController: UITableViewController {
         Restaurant(name: "Barrafina", type: "Spanish", location: "113 Saint Marks Pl, New York, NY 10009", phone: "542-343434", image: "barrafina.jpg", isVisited: false),
         Restaurant(name: "Donostia", type: "Spanish", location: "52 Havemeyer St, Brooklyn, NY 11211", phone: "722-232323", image: "donostia.jpg", isVisited: false),
         Restaurant(name: "Royal Oak", type: "British", location: "170 S 3rd St, Brooklyn, NY 11211", phone: "343-988834", image: "royaloak.jpg", isVisited: false),
-        Restaurant(name: "CASK Pub and Kitchen", type: "Thai", location: "379 Grand St, New York, NY 10002", phone: "432-344050", image: "caskpubkitchen.jpg", isVisited: false)
+        Restaurant(name: "CASK Pub and Kitchen", type: "Thai", location: "95 Boulevard Jean Jaurès, 91100 Corbeil-Essonnes, NY 10002", phone: "432-344050", image: "caskpubkitchen.jpg", isVisited: false)
     ]
     
     override func viewDidLoad() {
